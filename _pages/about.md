@@ -13,15 +13,15 @@ I'm a biomedical engineer with Informatics background, specializing in machine l
 
 Through Erasmus Mundus program, I have the chance to work on multidisciplinary projects that involve AI & healthcare with international colleagues in multicultural environments. Outside of work, I enjoy reading, crocheting, and night walks. 
 
----
+=====
 ## Research Interests
+-----
 - Medical image processing & analysis (CT, MRI, ultrasound)
 - Machine learning & deep learning for medical challenges
 - Explainable AI
 - Bioinformatics (genomics)
 
----
-
+=====
 This website is currently being updated, see my CV & project to explore more.
 
 ---
